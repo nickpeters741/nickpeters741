@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" ,my name is nicolas peter wanjau ,but call me nick!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is nicolas peter wanjau ,but call me nick!
 
 <!--
 **nickpeters741/nickpeters741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
