@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.animatedimages.org%2Fcat-waving-1645.htm&psig=AOvVaw1lkI6ZOuzLVXqoVicO6RbI&ust=1618987877888000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCypv2djPACFQAAAAAdAAAAABAN" ,my name is nicolas peter wanjau ,but call me nick!
 
 <!--
 **nickpeters741/nickpeters741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
