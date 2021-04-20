@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is nicolas peter wanjau ,but call me nick!
+### Hi there <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.animatedimages.org%2Fdata%2Fmedia%2F1645%2Fanimated-waving-image-0056.gif&imgrefurl=https%3A%2F%2Fwww.animatedimages.org%2Fcat-waving-1645.htm&tbnid=3x23jVwjMVcE5M&vet=12ahUKEwiipJD8nYzwAhUCihoKHTTgBScQMygAegUIARD1AQ..i&docid=lmjGr2PwriKcFM&w=255&h=211&q=waving%20image%20gif&ved=2ahUKEwiipJD8nYzwAhUCihoKHTTgBScQMygAegUIARD1AQ" width="30px">, my name is nicolas peter wanjau ,but call me nick!
 
 <!--
 **nickpeters741/nickpeters741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
