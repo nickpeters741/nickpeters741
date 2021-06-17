@@ -4,6 +4,7 @@
 
 i am an upcoming developer based in Nairobi, Kenya who was initially in the field if IT support.I enjoy learning different languages and framework especially react and react native.
 ---
+![Lull](https://github.com/timsully/memes/blob/master/southpark-wow-lul.gif)
 
 🧰 Toolbox
 
