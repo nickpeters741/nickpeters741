@@ -28,7 +28,7 @@ i am an upcoming developer based in Nairobi, Kenya who was initially in the fiel
 
 ---
 
-Skills: PHP / JS / HTML / CSS/C
+Skills: PHP / JS / HTML / CSS / C
 <br>
 
 - 🔭 I’m currently working on ALX projects 
